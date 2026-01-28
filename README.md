@@ -1,9 +1,29 @@
-# Análise-de-Dados-com-Python-projeto-2
-Projeto 2 de Análise e Qualidade de Dados com Python
+# 📊 Projeto 2 de Análise e Qualidade de Dados com Python
 
-🎯 Objetivo
+Este projeto foi desenvolvido como parte dos meus estudos em **Ciência de Dados e Inteligência Artificial**, com foco em trabalhar com **dados reais** e aplicar técnicas de **análise, limpeza e tratamento de dados**.
 
-Meu projeto pessoal com python apenas mostrando os conhecimentos que tenho com a ferramenta.
-Apartir de um dataset criado com IA, mostro os comandos que estou adquirindo conhecimento e ao mesmo tempo melhorando o que já sei
+---
 
-Link Projeto 2 feito no Google Colab utilizando Python3
+## 🎯 Objetivo
+
+Explorar, limpar e analisar um conjunto de dados, seguindo o fluxo real de trabalho de um analista de dados:
+
+- Entendimento dos dados  
+- Tratamento de dados faltantes  
+- Padronização e limpeza  
+- Análise exploratória (EDA)  
+- Geração de insights  
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- 🐍 **Python3**
+- 🐼 **Pandas**
+- 📊 **Matplotlib / Seaborn** *(se usar)*
+- 🧮 **NumPy** *(se usar)*
+
+---
+
+## 🗂️ Link do Projeto 2
+[[Link do Projeto 2]](https://colab.research.google.com/drive/1ihbBoLyFuDd2vMdG0CMQVsFjp34kN2f_?usp=sharing)
